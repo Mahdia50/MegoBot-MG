@@ -42,11 +42,11 @@ global.mes = d.toLocaleDateString('ar', {month: 'long'});
 global.año = d.toLocaleDateString('ar', {year: 'numeric'});
 global.tiempo = d.toLocaleString('ar-US', {hour: 'numeric', minute: 'numeric', second: 'numeric', hour12: true});
 //* ****************************
-global.wm2 = `${dia} ${fecha}\n☾︎ 𝙈𝙀𝙂𝙊𝘽𝙊𝙏-𝙈𝘿 ☽︎`;
+global.wm2 = `${dia} ${fecha}\n☾︎ 𝐙𝐎𝐅𝐀𝐍 ☽︎`;
 global.gt = '☾︎ 𝐙𝐎𝐅𝐀𝐍 ☽︎';
 global.mysticbot = '☾︎ 𝐙𝐎𝐅𝐀𝐍 ☽︎';
-global.md = 'atom.bio/𝐙𝐎𝐅𝐀𝐍';
-global.mysticbot = 'atom.bio/𝐙𝐎𝐅𝐀𝐍';
+global.md = '/𝐙𝐎𝐅𝐀𝐍';
+global.mysticbot = '/𝐙𝐎𝐅𝐀𝐍';
 global.waitt = '*[ ⏳ ] انتظر جاي التحميل تابع صاحب البوت*...\n\n*atom.bio/mego51_51*';
 global.waittt = '*[ ⏳ ] انتظر جاي التحميل تابع صاحب البوت*...\n\n*atom.bio/mego51_51*';
 global.waitttt = '*[ ⏳ ] انتظر جاي التحميل تابع صاحب البوت*...\n\n*atom.bio/mego51_51*';
