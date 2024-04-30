@@ -22,7 +22,7 @@ global.wm = '✯𝒁𝑶𝑭𝑨𝑵✯';
 global.titulowm = '☾︎ 𝒁𝑶𝑭𝑨𝑵 ☽︎';
 global.titulowm2 = `☾︎ 𝒁𝑶𝑭𝑨𝑵 ☽︎`
 global.igfg = '☾︎ 𝐙𝐎𝐅𝐀𝐍 ☽︎';
-global.wait = '*[ ⏳ ] انتظر جاي التحميل تابع صاحب البوت*...\n\n*atom.bio/mego51_51*';
+global.wait = '*[ ⏳ ] انتظر جاي التحميل تابع صاحب البوت*...\n\n**';
 
 global.imagen1 = fs.readFileSync('./Menu2.jpg');
 global.imagen2 = fs.readFileSync('./src/nuevobot.jpg');
