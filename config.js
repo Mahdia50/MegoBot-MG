@@ -47,9 +47,9 @@ global.gt = '☾︎ 𝐙𝐎𝐅𝐀𝐍 ☽︎';
 global.mysticbot = '☾︎ 𝐙𝐎𝐅𝐀𝐍 ☽︎';
 global.md = '/𝐙𝐎𝐅𝐀𝐍';
 global.mysticbot = '/𝐙𝐎𝐅𝐀𝐍';
-global.waitt = '*[ ⏳ ] انتظر جاي التحميل تابع صاحب البوت*...\n\n*atom.bio/mego51_51*';
-global.waittt = '*[ ⏳ ] انتظر جاي التحميل تابع صاحب البوت*...\n\n*atom.bio/mego51_51*';
-global.waitttt = '*[ ⏳ ] انتظر جاي التحميل تابع صاحب البوت*...\n\n*atom.bio/mego51_51*';
+global.waitt = '*[ ⏳ ] انتظر جاي التحميل تابع صاحب البوت*...\n\n**';
+global.waittt = '*[ ⏳ ] انتظر جاي التحميل تابع صاحب البوت*...\n\n**';
+global.waitttt = '*[ ⏳ ] انتظر جاي التحميل تابع صاحب البوت*...\n\n**';
 global.nomorown = '212620992799';
 global.pdoc = ['application/vnd.openxmlformats-officedocument.presentationml.presentation', 'application/vnd.openxmlformats-officedocument.spreadsheetml.sheet', 'application/vnd.openxmlformats-officedocument.wordprocessingml.document', 'application/vnd.ms-excel', 'application/msword', 'application/pdf', 'text/rtf'];
 global.cmenut = '❖––––––『';
