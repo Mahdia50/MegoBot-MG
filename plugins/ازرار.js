@@ -1,44 +1,34 @@
-حقوق  - _( 🍷 ڤينوم و سوكونا ☘️ )_ 
-> _*كود الزراير الجديد تم صنعه بواسطه ڤينوم و سوكونا*_
-
-*(🎧) شارك رابط القناه ادعمنا لي تنزيل اكواد اخري*
-_https://whatsapp.com/channel/0029VaQim2bAu3aPsRVaDq3v_
-
-
-*(⚙️)-) الكود (-(⚙️)*
-
-
 let handler = async (m, { conn, args, usedPrefix, command }) => {
     conn.relayMessage(m.chat, {
       viewOnceMessage: {
         message: {
           interactiveMessage: {
             header: {
-              title: '*🎗️ قـائـمـة الـاوامــر🎗️*'
+              title: '*قـائـمـة الـاوامــر*'
             },
             body: {
-              text: '🧿 افتح القائمة بواسطة الزر\n🍒 لا تلعب كثير في القائمة'
+              text: '🛡️ افتح القائمة بواسطة الزر\n⚡ لا تلعب كثير في القائمة'
             },
             nativeFlowMessage: {
               buttons: [
                 {
                   name: 'single_select',
                   buttonParamsJson: JSON.stringify({
-                    title: 'دوس عليا 💔',
+                    title: 'دوس هنا ',
                     sections: [
                       {
-                        title: 'List',
-                        highlight_label: 'ON',
+                        title: 'قوائم البوت',
+                        highlight_label: 'اختار',
                         rows: [
                           {
-                            header: '☘️ قـسـم الـنـظـام',
-                            title: '.النظام_كود',
+                            header: 'قسم الانمي',
+                            title: '.الانمي',
                             description: '',
                             id: 'te'
                           },
                           {
-                            header: '👑 قـسـم الـمـطـور',
-                            title: '.المطور_كود',
+                            header: 'قسم الاوامر',
+                            title: '.المهام',
                             description: '',
                             id: 'te'
                           }
@@ -59,6 +49,6 @@ let handler = async (m, { conn, args, usedPrefix, command }) => {
 
 handler.help = ['info']
 handler.tags = ['main']
-handler.command = ['القائمة']
+handler.command = ['قايمه']
 
 export default handler
