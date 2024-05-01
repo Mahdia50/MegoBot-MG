@@ -1,4 +1,12 @@
-
+import fs from 'fs'
+import fetch from 'node-fetch'
+import { xpRange } from '../lib/levelling.js'
+const { levelling } = '../lib/levelling.js'
+import PhoneNumber from 'awesome-phonenumber'
+import { promises } from 'fs'
+import { join } from 'path'
+let handler = async (m, { conn, usedPrefix, usedPrefix: _p, __dirname, text, isPrems }) => {
+try {
 let vn = './Menu.png'
 let pp = imagen4
 let img = await(await fetch('https://telegra.ph/.')).buffer()
